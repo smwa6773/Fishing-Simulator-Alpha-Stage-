@@ -1,4 +1,4 @@
-# Fishing-Simulator-Aplha-Stage-
+# Fishing-Simulator-Aplha-Stage
 This a Early release of my new game.
 Features-
   Survival and Casual gameplay
